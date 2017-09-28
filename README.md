@@ -24,7 +24,8 @@
 
 ###	<a name="paper">论文阅读
 
-TODO
+*   R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS
+    *   时间规划：09/29/2017-10/29/2017
 
 ****
 
